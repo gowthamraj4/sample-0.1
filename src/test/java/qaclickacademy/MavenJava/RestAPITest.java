@@ -15,5 +15,11 @@ public class RestAPITest {
 	{
 		System.out.println("DeleteTwitter");
 	}
+	
+	public void AddTwitter()
+	{
+		System.out.println("AddTwitter");
+	}
+
 
 }
